@@ -1,0 +1,13 @@
+
+# Node js modules repository
+node_modules
+
+# This is where all built files go (if applicable)
+dist
+
+# IntelliJ configuration files
+.idea
+
+# Server environment variables (if applicable)
+.env
+
